@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.eddie.simpleapp;
+package com.enc.moviedelivery.app;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
