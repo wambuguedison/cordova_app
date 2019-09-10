@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.eddie.simpleapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.enc.moviedelivery.app"
     }
   },
   "dependent_plugins": {}

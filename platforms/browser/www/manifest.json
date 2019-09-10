@@ -1,11 +1,17 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "SimpleApp",
-  "short_name": "SimpleApp",
-  "version": "com.eddie.simpleapp",
+  "name": "MovApp",
+  "short_name": "MovApp",
+  "version": "com.enc.moviedelivery.app",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "author": "Apache Cordova Team",
-  "icons": [],
+  "author": "Eddie Waweru",
+  "icons": [
+    {
+      "src": "res/android/icon.jpg",
+      "type": "image/png",
+      "sizes": "57x57"
+    }
+  ],
   "start_url": "index.html"
 }
