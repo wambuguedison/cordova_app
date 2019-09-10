@@ -26,5 +26,7 @@
     <icon density="mdpi" height="57" platform="android" src="res/android/icon.jpg" width="57" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
 </widget>
